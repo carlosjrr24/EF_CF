@@ -28,7 +28,7 @@ namespace EF_CF
 
             if (addedDepartment != null)
             {
-                Console.WriteLine("Department name is. " + addedDepartment.DepartmentName + Environment.NewLine);
+                Console.WriteLine("Department name is: " + addedDepartment.DepartmentName + Environment.NewLine);
                 Console.WriteLine("Department Employees are: " + Environment.NewLine);
 
                 foreach (var addedDepartmentEmployee in addedDepartment.Employees)

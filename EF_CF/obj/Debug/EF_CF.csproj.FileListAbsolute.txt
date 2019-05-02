@@ -1,0 +1,12 @@
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EF_CF.exe.config
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EF_CF.exe
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EF_CF.pdb
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EntityFramework.dll
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EntityFramework.xml
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\obj\Debug\EF_CF.csprojAssemblyReference.cache
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\obj\Debug\EF_CF.csproj.CoreCompileInputs.cache
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\obj\Debug\EF_CF.csproj.CopyComplete
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\obj\Debug\EF_CF.exe
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF\obj\Debug\EF_CF.pdb

@@ -1,0 +1,12 @@
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EF_CF_Migrations.exe.config
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EF_CF_Migrations.exe
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EF_CF_Migrations.pdb
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EntityFramework.dll
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EntityFramework.xml
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\obj\Debug\EF_CF_Migrations.csprojAssemblyReference.cache
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\obj\Debug\EF_CF_Migrations.csproj.CoreCompileInputs.cache
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\obj\Debug\EF_CF_Migrations.csproj.CopyComplete
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\obj\Debug\EF_CF_Migrations.exe
+C:\Users\rizzicar\source\repos\EF_CF\EF_CF_Migrations\obj\Debug\EF_CF_Migrations.pdb
